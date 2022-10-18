@@ -1,11 +1,6 @@
 Behatch contexts
 ================
 
-[![Build status](https://travis-ci.org/Behatch/contexts.svg?branch=master)](https://travis-ci.org/Behatch/contexts)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Behatch/contexts/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Behatch/contexts/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/Behatch/contexts/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Behatch/contexts/?branch=master)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/ed08ea06-93c2-4b90-b65b-4364302b5108/mini.png)](https://insight.sensiolabs.com/projects/ed08ea06-93c2-4b90-b65b-4364302b5108)
-
 Behatch contexts provide most common Behat tests.
 
 Installation
@@ -13,7 +8,7 @@ Installation
 
 This extension requires:
 
-* Behat 3+
+* Behat 3.8+
 * Mink
 * Mink extension
 
@@ -23,7 +18,7 @@ This extension requires:
 2. Require the package with Composer:
 
 ```
-$ composer require --dev behatch/contexts
+$ composer require --dev fortress/behat-contexts
 ```
 
 3. Activate extension by specifying its class in your `behat.yml`:
