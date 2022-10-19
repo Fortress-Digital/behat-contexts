@@ -1,14 +1,13 @@
 Behatch contexts
 ================
 
-Behatch contexts provide most common Behat tests.
+Behat contexts provide most common Behat tests.
 
 Installation
 ------------
 
 This extension requires:
 
-* Behat 3.8+
 * Mink
 * Mink extension
 

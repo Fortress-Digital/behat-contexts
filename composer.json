@@ -1,6 +1,6 @@
 {
-    "name": "fortress/contexts",
-    "description": "Behatch contexts",
+    "name": "fortress/behat-contexts",
+    "description": "Behatc contexts",
     "keywords": [
         "BDD",
         "Behat",
